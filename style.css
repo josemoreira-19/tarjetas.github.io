@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 2rem;
     font-weight: 700;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Poppins', sans-serif;
     
 }
 
@@ -30,8 +30,9 @@ body{
 
 }
 .boton:hover{
-    box-shadow: 0px 0px 18px 12px rgb(253, 249, 19);
+    box-shadow: 0px 0px 18px 12px #D9822B;
 }
+
 
 
 .targeta{
@@ -39,7 +40,7 @@ body{
     margin-bottom: 2rem;
     width: 400px;
     height: 330px;
-    background-color: rgb(53, 0, 245);
+    background-color:  #FAD4C0;
     display: flex;
     flex-direction: column;
     border-radius: 1rem;
@@ -64,11 +65,11 @@ body{
 }
 
 #targeta2{
-    background-color: red;
+    background-color: #E6A57E;
 }
  
 #targeta3{
-    background-color: rgb(9, 219, 209);
+    background-color: #FFE9A7;
 
 }
 
@@ -111,7 +112,7 @@ img {
 
 }
 .boton:hover{
-    box-shadow: 0px 0px 18px 12px rgb(253, 249, 19);
+    box-shadow: 0px 0px 18px 12px #D9822B;
 }
 }
 
@@ -147,6 +148,6 @@ img {
 
 }
 .boton:hover{
-    box-shadow: 0px 0px 18px 12px rgb(253, 249, 19);
+    box-shadow: 0px 0px 18px 12px #D9822B;
 }
 }
